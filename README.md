@@ -1,2 +1,3 @@
-# teaching_git
-Teaching git to Data Science for Epi
+# Teaching Git 
+
+Teaching git to Data Science for Epi. Test run, making changes. Hurray! 
